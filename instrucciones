@@ -1,0 +1,12 @@
+git rm [archivo] elimina un archivo
+git checkout [archivo] recupera el archivo
+
+
+git config --global user.name "usuario de github"
+git config --global user.main "mail de github"
+
+
+resaltado de colores
+
+git config --global color.status auto
+    git config --global color.branch auto
